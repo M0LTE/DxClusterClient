@@ -10,7 +10,7 @@ nuget install DxClusterClient
 
 then
 
-```
+```csharp
 namespace DemoApp
 {
     using ClusterSkimmer;
