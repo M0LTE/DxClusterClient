@@ -57,3 +57,5 @@ GitHub Actions is wired up to nuget.org to generate and release an updated packa
 To stop, pass in a CancellationToken to `client.Start()` if you wish.
 
 To turn on/off various kinds of spots, pass optional parameters to `client.Start()`, e.g. `ft8: false`.
+
+Licence: MIT
