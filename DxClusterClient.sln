@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DxClusterClient", "DxClusterClient\DxClusterClient.csproj", "{FA03DC30-E348-4562-9F72-B90ABEB1CF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DxClusterClientTests", "DxClusterClientTests\DxClusterClientTests.csproj", "{0CAD480C-8FC8-46E5-8D31-9D6AB6341706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA03DC30-E348-4562-9F72-B90ABEB1CF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA03DC30-E348-4562-9F72-B90ABEB1CF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA03DC30-E348-4562-9F72-B90ABEB1CF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA03DC30-E348-4562-9F72-B90ABEB1CF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CAD480C-8FC8-46E5-8D31-9D6AB6341706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAD480C-8FC8-46E5-8D31-9D6AB6341706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAD480C-8FC8-46E5-8D31-9D6AB6341706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAD480C-8FC8-46E5-8D31-9D6AB6341706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3E5A72-2EC4-447F-A08B-57F90706CF35}
+	EndGlobalSection
+EndGlobal

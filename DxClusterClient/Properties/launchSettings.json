@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DxClusterClient": {
+      "commandName": "Project",
+      "commandLineArgs": "M0LTE"
+    }
+  }
+}
