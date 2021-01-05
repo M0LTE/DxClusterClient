@@ -41,3 +41,5 @@ namespace DemoApp
 This isn't battle tested.
 
 It should be pretty robust, there's an exception handler inside. Watch for warning log messages coming out of the logger. If you spot something's up, please raise an issue and supply the spot that broke it.
+
+GitHub Actions is wired up to nuget.org to generate and release an updated package. Increment the version number in the project file to do a new release.
